@@ -5,5 +5,5 @@
 #### Email: koulkoudakis@gmail.com
 #### Website: https://github.com/koulkoudakis
 #### Image:
-<img src="https://avatars.githubusercontent.com/u/58353987?s=400&u=8932164593e29eea512a52840e279405c1111d51&v=4" width="200">
+<img src="https://avatars.githubusercontent.com/u/58353987?s=400&u=8932164593e29eea512a52840e279405c1111d51&v=4" width="300">
 
