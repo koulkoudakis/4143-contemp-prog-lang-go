@@ -14,4 +14,4 @@
 |   1   | [P01](./P01)     | Run A Go Program                                         |
 |   2   | [P02](./P02)           | Baby Steps                 |
 |   3   | [P03](./P03)         | Image Ascii Art                       |
-|   4   | [P04](./P04)   | Concurrent/Parallel Image Downloader | 
+|   4   | [P04](./P04)   | Concurrent Image Downloader | 
