@@ -2,7 +2,7 @@
 ### Sharome Burton
 ### Description:
 
-
+This program accesses 4 packages hosted at https://github.com/koulkoudakis/img_mod to manipulate images
 
 
 ### Files
