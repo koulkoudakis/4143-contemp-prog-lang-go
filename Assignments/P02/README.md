@@ -2,8 +2,8 @@
 ### Sharome Burton
 ### Description:
 
-In this program we draw a rectangle of a specified dimension on an image (mustangs.jpg) placed in the folder of the main file.
-A new image (mustangs_edit.png) is produced from running the main fil
+In this program we draw a rectangle of a specified dimension on an image `mustangs.jpg` placed in the folder of the main file.
+A new image `mustangs_edit.png` is produced from running the main fil
 
 
 ### Files
