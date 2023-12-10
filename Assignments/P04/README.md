@@ -15,5 +15,5 @@ This program downloads images from a list of specified URLS in two ways. In one 
 
 
 ### Instructions
-- Download all files from P03 directory
+- Download all files from P04 directory
 - Execute `go run main.go` command
