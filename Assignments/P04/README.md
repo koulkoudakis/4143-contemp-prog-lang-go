@@ -10,7 +10,8 @@ This program downloads images from a list of specified URLS in two ways. In one 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
 |   1   | [main.go](./main.go)     | driver file.                                             |
-|   3   | [go.mod](./go.mod)           | File defines path of Go module                   |
+|   2   | [go.mod](./go.mod)           | File defines path of Go module                   |
+|   3   | [images](./images)           | Images downloaded for testing purposes from links in Google Sheet        |
 
 
 
