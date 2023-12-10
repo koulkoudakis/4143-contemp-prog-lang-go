@@ -4,6 +4,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/koulkoudakis/img_mod/Colors"
+	"github.com/koulkoudakis/img_mod/getPic"
+	"github.com/koulkoudakis/img_mod/Grayscale"
+	"github.com/koulkoudakis/img_mod/Text"
 )
 
 func main() {
