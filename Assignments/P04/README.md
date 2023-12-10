@@ -2,7 +2,7 @@
 ### Sharome Burton
 ### Description:
 
-
+This program downloads images from a list of specified URLS in two ways. In one way, the images are downloaded sequentially. In the other way, a slice of URL's is passed to a function which then downloads them together at once using goroutines. The sequential and concurrent methods can then be compared.
 
 
 ### Files
